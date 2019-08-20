@@ -1,0 +1,22 @@
+{
+  "require": {
+    "php": ">=5.3"
+  },
+  "autoload": {
+    "files": [
+      "crypto/JiSuCrypt.php"
+    ]
+  },
+  "authors": [
+    {
+      "name": "gaowenfei",
+      "email": "535902586@qq.com",
+      "homepage": "https://github.com/gaowenfei2013"
+    }
+  ],
+  "name": "jisuapp/JiSuCrypt",
+  "type": "library",
+  "keywords": ["php", "jisuapp"],
+  "description": "jisuapp pkcs7 crypt",
+  "license": "MIT"
+}

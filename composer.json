@@ -14,7 +14,7 @@
       "homepage": "https://github.com/gaowenfei2013"
     }
   ],
-  "name": "jisuapp/JiSuCrypt",
+  "name": "jisuapp/jisucrypt",
   "type": "library",
   "keywords": ["php", "jisuapp"],
   "description": "jisuapp pkcs7 crypt",
